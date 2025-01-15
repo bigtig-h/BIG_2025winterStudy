@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3036CD8-0E0F-4F9C-86DF-BC16BA62C3A6}|week2_hw\\week2_hw.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week2_hw\\week2_homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3036CD8-0E0F-4F9C-86DF-BC16BA62C3A6}|week2_hw\\week2_hw.csproj|solutionrelative:week2_hw\\week2_homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98FD38C-6017-4E73-89B6-1D1DFC04E75E}|week3\\week3.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week3\\week3_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98FD38C-6017-4E73-89B6-1D1DFC04E75E}|week3\\week3.csproj|solutionrelative:week3\\week3_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8363617D-FD5E-4A89-ABE7-EFCAA55AD8A8}|week2\\week2.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week2\\week2_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8363617D-FD5E-4A89-ABE7-EFCAA55AD8A8}|week2\\week2.csproj|solutionrelative:week2\\week2_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF25784-6584-4F17-B0A8-B6B9E05C7DE8}|week1_hw\\week1_hw.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week1_hw\\week1_homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF25784-6584-4F17-B0A8-B6B9E05C7DE8}|week1_hw\\week1_hw.csproj|solutionrelative:week1_hw\\week1_homework.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E78E6C7-B809-4DFE-BB7B-645867E2C762}|week1\\week1.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week1\\week1_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E78E6C7-B809-4DFE-BB7B-645867E2C762}|week1\\week1.csproj|solutionrelative:week1\\week1_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E78E6C7-B809-4DFE-BB7B-645867E2C762}|week1\\week1.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week1\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E78E6C7-B809-4DFE-BB7B-645867E2C762}|week1\\week1.csproj|solutionrelative:week1\\appsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E78E6C7-B809-4DFE-BB7B-645867E2C762}|week1\\week1.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week1\\week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E78E6C7-B809-4DFE-BB7B-645867E2C762}|week1\\week1.csproj|solutionrelative:week1\\week1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsetting.json",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1\\appsetting.json",
+              "RelativeDocumentMoniker": "week1\\appsetting.json",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1\\appsetting.json",
+              "RelativeToolTip": "week1\\appsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T02:29:25.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "week1",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1\\week1.csproj",
+              "RelativeDocumentMoniker": "week1\\week1.csproj",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1\\week1.csproj",
+              "RelativeToolTip": "week1\\week1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T02:24:21.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "week1_homework.cs",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1_hw\\week1_homework.cs",
+              "RelativeDocumentMoniker": "week1_hw\\week1_homework.cs",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1_hw\\week1_homework.cs",
+              "RelativeToolTip": "week1_hw\\week1_homework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:24:41.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "week2_homework.cs",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week2_hw\\week2_homework.cs",
+              "RelativeDocumentMoniker": "week2_hw\\week2_homework.cs",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week2_hw\\week2_homework.cs",
+              "RelativeToolTip": "week2_hw\\week2_homework.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:19:29.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "week3_exercise.cs",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week3\\week3_exercise.cs",
+              "RelativeDocumentMoniker": "week3\\week3_exercise.cs",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week3\\week3_exercise.cs",
+              "RelativeToolTip": "week3\\week3_exercise.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:15:31.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "week2_exercise.cs",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week2\\week2_exercise.cs",
+              "RelativeDocumentMoniker": "week2\\week2_exercise.cs",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week2\\week2_exercise.cs",
+              "RelativeToolTip": "week2\\week2_exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:15:15.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "week1_exercise.cs",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1\\week1_exercise.cs",
+              "RelativeDocumentMoniker": "week1\\week1_exercise.cs",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week1\\week1_exercise.cs",
+              "RelativeToolTip": "week1\\week1_exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:14:18.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

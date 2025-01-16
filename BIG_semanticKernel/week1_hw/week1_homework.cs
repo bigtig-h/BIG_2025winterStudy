@@ -6,6 +6,7 @@ using Microsoft.SemanticKernel.ChatCompletion;
 
 var modelId = "llama3.2";
 var endpoint = new Uri("http://127.0.0.1:11434/v1");
+var a = "집에 가고싶어.";
 
 # pragma warning disable SKEXP0010
 var builder = Kernel.CreateBuilder()

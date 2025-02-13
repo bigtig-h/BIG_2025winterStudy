@@ -51,7 +51,7 @@
             },
             "Microsoft.SemanticKernel": {
               "target": "Package",
-              "version": "[1.33.0, )"
+              "version": "[1.36.1, )"
             }
           },
           "imports": [

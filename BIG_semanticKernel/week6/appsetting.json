@@ -1,6 +1,6 @@
 {
   "OPEN_AI_MODEL": "Your Model Name",
-  "OPEN_AI_KEY": "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",
+  "OPEN_AI_KEY": "Your API Key",
   "OPEN_AI_ORG_ID": "your Organization ID",
-  "TEXT_EMBEDDING_MODEL": "text-embedding-3-small"
+  "TEXT_EMBEDDING_MODEL": "Your Embedding Model Name"
 }

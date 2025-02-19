@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02F983DC-A267-4214-871D-8F21C706F426}|week7\\week7.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week7\\week7_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F983DC-A267-4214-871D-8F21C706F426}|week7\\week7.csproj|solutionrelative:week7\\week7_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9E3E0B7-58B8-440A-9317-EC9670FA54F7}|week6\\week6.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week6\\week6_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9E3E0B7-58B8-440A-9317-EC9670FA54F7}|week6\\week6.csproj|solutionrelative:week6\\week6_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F98FD38C-6017-4E73-89B6-1D1DFC04E75E}|week3\\week3.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week3\\week3_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98FD38C-6017-4E73-89B6-1D1DFC04E75E}|week3\\week3.csproj|solutionrelative:week3\\week3_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9E3E0B7-58B8-440A-9317-EC9670FA54F7}|week6\\week6.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week6\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9E3E0B7-58B8-440A-9317-EC9670FA54F7}|week6\\week6.csproj|solutionrelative:week6\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98FD38C-6017-4E73-89B6-1D1DFC04E75E}|week3\\week3.csproj|c:\\users\\bigtig\\desktop\\big_2025winterstudy\\big_semantickernel\\week3\\week3_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98FD38C-6017-4E73-89B6-1D1DFC04E75E}|week3\\week3.csproj|solutionrelative:week3\\week3_exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,6 +45,23 @@
               "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "week7_exercise.cs",
+              "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week7\\week7_exercise.cs",
+              "RelativeDocumentMoniker": "week7\\week7_exercise.cs",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week7\\week7_exercise.cs",
+              "RelativeToolTip": "week7\\week7_exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:22:49.454Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Movie.cs",
@@ -48,26 +69,27 @@
               "RelativeDocumentMoniker": "week6\\Movie.cs",
               "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week6\\Movie.cs",
               "RelativeToolTip": "week6\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAywAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T07:37:28.216Z"
+              "WhenOpened": "2025-02-12T07:37:28.216Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "week6_exercise.cs",
               "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week6\\week6_exercise.cs",
               "RelativeDocumentMoniker": "week6\\week6_exercise.cs",
-              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week6\\week6_exercise.cs*",
-              "RelativeToolTip": "week6\\week6_exercise.cs*",
-              "ViewState": "AgIAABYAAADAZ2ZmZmYswBoAAAAIAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week6\\week6_exercise.cs",
+              "RelativeToolTip": "week6\\week6_exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-12T04:35:27.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "week3_exercise.cs",
               "DocumentMoniker": "C:\\Users\\bigtig\\Desktop\\BIG_2025winterStudy\\BIG_semanticKernel\\week3\\week3_exercise.cs",
               "RelativeDocumentMoniker": "week3\\week3_exercise.cs",
@@ -75,7 +97,8 @@
               "RelativeToolTip": "week3\\week3_exercise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T02:15:31.581Z"
+              "WhenOpened": "2025-01-15T02:15:31.581Z",
+              "EditorCaption": ""
             }
           ]
         },

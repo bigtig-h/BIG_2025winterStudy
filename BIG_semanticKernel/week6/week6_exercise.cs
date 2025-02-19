@@ -1,17 +1,13 @@
-﻿using Microsoft.SemanticKernel.Connectors.MongoDB;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.SemanticKernel.Connectors.MongoDB;
 using Microsoft.SemanticKernel.Connectors.OpenAI;
 using Microsoft.SemanticKernel.Memory;
 using MongoDB.Driver;
 using week6;
 
-
 #pragma warning disable SKEXP0001, SKEXP0010, SKEXP0020, SKEXP0050
 public class week6_exercise
 {
-    static string TextEmbeddingModelName = "text-embedding-3-small";
-    static string chatModel = "gpt-4o-2024-08-06";
-    static string OpenAIAPIKey = "sk-proj-ii4qEM1cc13dmdiqbSQKT3BlbkFJ1hX3IviUaXvOEuxqzSPL";
-
     static string MongoDBAtlasConnectionString = "mongodb+srv://bigtig:Jf3tvQYN2jgPPoGU@movies.5pcfz.mongodb.net/?" +
         "retryWrites=true&w=majority&appName=movies";
     static string SearchIndexName = "default";
@@ -21,9 +17,17 @@ public class week6_exercise
 
     public static async Task Main( string[] args )
     {
+        var config = new ConfigurationBuilder()
+           .AddJsonFile("appsetting.json")
+           .Build();
+        string TextEmbeddingModelName = config["TEXT_EMBEDDING_MODEL"];
+        string chatModel = "gpt-4o-2024-08-06";
+        string OpenAIAPIKey = config["OPEN_AI_KEY"];
+
+
         memoryBuilder = new MemoryBuilder();
         memoryBuilder.WithOpenAITextEmbeddingGeneration(TextEmbeddingModelName, OpenAIAPIKey);
-        
+
         var mongoDBMemoryStore = new MongoDBMemoryStore(MongoDBAtlasConnectionString,
             databaseName, SearchIndexName);
         memoryBuilder.WithMemoryStore(mongoDBMemoryStore);

@@ -1,0 +1,7 @@
+{
+  "OPEN_AI_MODEL": "Your Model Name",
+  "OPEN_AI_KEY": "Your Model API Key",
+  "OPEN_AI_ORG_ID": "Your Organization Id",
+  "GOOGLE_KEY": "Your Search Engine Key",
+  "GOOGLE_ID": "Your Search Engine Id"
+}

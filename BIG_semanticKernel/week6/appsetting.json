@@ -1,6 +1,6 @@
 {
-  "OPEN_AI_MODEL" :  "Your Model Name"
+  "OPEN_AI_MODEL": "Your Model Name",
   "OPEN_AI_KEY": "Your API Key",
-  "OPEN_AI_ORG_ID": "your Organization ID"
-
+  "OPEN_AI_ORG_ID": "your Organization ID",
+  "TEXT_EMBEDDING_MODEL": "Your Embedding Model Name"
 }
